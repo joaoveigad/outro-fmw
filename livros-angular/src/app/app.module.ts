@@ -14,7 +14,7 @@ import { ControleLivrosService } from './controle-livros.service';
 //     LivroDadosComponent
 //   ],
 //   imports: [
-//     BrowserModule,
+//     BrowserModule, FormsModule
 //     AppRoutingModule
 //   ],
 //   providers: [ControleEditoraService, ControleLivrosService],
